@@ -1,0 +1,2 @@
+# khayacore
+ERP - CRM - KHAYA
